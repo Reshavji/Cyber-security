@@ -1,6 +1,6 @@
 # All about bug bounty
 These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Reshavji}1212%2Fhit-counter
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FReshavji1212%2Fhit-counter
 ![](https://img.shields.io/github/issues/Reshavji/Cyber-security)
 ![](https://img.shields.io/github/forks/Reshavji/Cyber-security)
 ![](https://img.shields.io/github/stars/Reshavji/Cyber-security)
