@@ -1,10 +1,10 @@
 # All about bug bounty
 These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
 
-![](https://img.shields.io/github/issues/Reshavji/Cyber-security)
-![](https://img.shields.io/github/forks/Reshavji/Cyber-security)
-![](https://img.shields.io/github/stars/Reshavji/Cyber-security)
-![](https://img.shields.io/github/last-commit/Reshavji/Cyber-security)
+![](https://img.shields.io/github/issues/Reshavji/Cyber-security/tree/main/Bug%20Hunting/AllAboutBugBounty-master)
+![](https://img.shields.io/github/forks/Reshavji/Cyber-security/tree/main/Bug%20Hunting/AllAboutBugBounty-master)
+![](https://img.shields.io/github/stars/Reshavji/Cyber-security/tree/main/Bug%20Hunting/AllAboutBugBounty-master)
+![](https://img.shields.io/github/last-commit/Reshavji/Cyber-security/tree/main/Bug%20Hunting/AllAboutBugBounty-master)
 
 ## List Vulnerability
 - [Arbitrary File Upload](https://github.com/Reshavji/Cyber-security/blob/main/Bug%20Hunting/AllAboutBugBounty-master/Arbitrary%20File%20Upload.md)
