@@ -1,4 +1,4 @@
- ## 🔍 Bug Bounty Dorks ##
+ ## 🔍 Find Bug Bounty Programs by google  Dorks ##
 
 
 - [index of "responsible disclosure"](https://www.google.com/search?q=index+of+"responsible+disclosure")
