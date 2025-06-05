@@ -6,6 +6,8 @@ These are my bug bounty notes that I have gathered from various sources, you can
 ![](https://img.shields.io/github/forks/Reshavji/Cyber-security)
 ![](https://img.shields.io/github/stars/Reshavji/Cyber-security)
 ![](https://img.shields.io/github/last-commit/Reshavji/Cyber-security)
+## List Vulnerability
+- [Bug Bounty Platforms](https://github.com/Reshavji/Cyber-security/blob/main/Bug%20Bounty%20Platforms)
 
 ## List Vulnerability
 - [Arbitrary File Upload](https://github.com/Reshavji/Cyber-security/blob/main/Bug%20Hunting/AllAboutBugBounty-master/Arbitrary%20File%20Upload.md)
